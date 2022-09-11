@@ -1,0 +1,8 @@
+# Permanent URL redirect 
+RewriteEngine on
+Redirect 301 /Datenschutzerklaerung/ https://4zylinder.pc-tests.tk/datenschutz.html
+Redirect 301 /Impressum/ https://4zylinder.pc-tests.tk/impressum.html
+Redirect 301 /KONTAKT/ https://4zylinder.pc-tests.tk/kontakt.html
+Redirect 301 /UNSERE-LEISTUNGEN/ https://4zylinder.pc-tests.tk/galerie.html
+Redirect 301 /GALERIE/ https://4zylinder.pc-tests.tk/leistungen.html
+Redirect 301 /STARTSEITE/ https://4zylinder.pc-tests.tk/index.html

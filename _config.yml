@@ -1,0 +1,38 @@
+remote_theme: PfeifferChPT/pc-cdn-template
+name: "RS RACING GARAGE"
+title: "RS RACING GARAGE"
+subtitle: "4 Zylinder Yamaha Fazer FZS  600 & FZS 1000 Quad Selbstbaukit und Komplett Umbauten"
+description: "" #metadescription
+markdown: kramdown
+highlighter: rouge # pygments or rouge or null
+exclude: ["node_modules", "gulpfile.js", "package.json"]
+permalink: /:year/:month/:day/:title/index.html
+excerpt_separator: <!--more-->
+templateserverurl: https://template.pc-cdn.de
+themecolor: 585E60
+dummyimage: overlay-pattern.png
+themeURI: none
+themeBGimage: https://4zylinder.pc-tests.cf/assets/bg-images/logo-quad-banner_rahmen-transparent.png
+hbbhomeurl: #
+livereload: true
+author: Ronny Saleika
+since: 2018
+
+# hostcredits: GHP (githubpages), IDN (IONOS DeployNow), OHI (Own Server)
+hostcredit: none
+FAS: CSS
+# FAS (Fontawesome): CSS (css File) JS (javascript) FASkit (Remote von kit.fontawesome.com)
+
+domain2use: 4zylinder.pc-tests.cf
+
+#timezone: Europe/Berlin
+#deactivaterelatedposts: true
+# Pagination Settings 
+pagination:
+  enabled: false
+  per_page: 2
+  permalink: '/page/:num/'
+  title: ' - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
