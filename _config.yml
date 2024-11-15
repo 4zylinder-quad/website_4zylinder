@@ -12,7 +12,7 @@ templateserverurl: https://template.pc-cdn.de
 themecolor: 585E60
 dummyimage: overlay-pattern.png
 themeURI: none
-themeBGimage: https://website_4zylinder.4zylinder-quad.185-199-108-153.plesk.page/assets/bg-images/logo-quad-banner_rahmen-transparent.png
+themeBGimage: https://website-4zylinder.4zylinder-quad.185-199-108-153.plesk.page/assets/bg-images/logo-quad-banner_rahmen-transparent.png
 hbbhomeurl: #
 livereload: true
 author: Ronny Saleika
@@ -23,7 +23,7 @@ hostcredit: none
 FAS: CSS
 # FAS (Fontawesome): CSS (css File) JS (javascript) FASkit (Remote von kit.fontawesome.com)
 
-domain2use: website_4zylinder.4zylinder-quad.185-199-108-153.plesk.page
+domain2use: website-4zylinder.4zylinder-quad.185-199-108-153.plesk.page
 
 #timezone: Europe/Berlin
 #deactivaterelatedposts: true
